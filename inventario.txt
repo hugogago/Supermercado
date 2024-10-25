@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hola buenas, este es un cambio para el fichero desde git hub, ahora hago un cambio en el repositorio local
+=======
+Hola buenas, este es un cambio para el fichero desde git hub
+
+Otro cambio para el ejercicio 10
+>>>>>>> 9542630cb8e3f5269467e1bb4e4f771a9144fe55
